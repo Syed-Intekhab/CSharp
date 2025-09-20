@@ -1,0 +1,11 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\bin\Debug\ofd_sfd_practice_3.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\bin\Debug\ofd_sfd_practice_3.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\bin\Debug\ofd_sfd_practice_3.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\ofd_sfd_practice_3\obj\Debug\ofd_sfd_practice_3.exe.config

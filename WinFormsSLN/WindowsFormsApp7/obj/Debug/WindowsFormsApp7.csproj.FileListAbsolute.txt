@@ -1,0 +1,11 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe.config

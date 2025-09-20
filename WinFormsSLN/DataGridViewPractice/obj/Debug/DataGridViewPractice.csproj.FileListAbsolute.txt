@@ -1,0 +1,11 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\bin\Debug\DataGridViewPractice.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\bin\Debug\DataGridViewPractice.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\bin\Debug\DataGridViewPractice.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\DataGridViewPractice\obj\Debug\DataGridViewPractice.exe.config

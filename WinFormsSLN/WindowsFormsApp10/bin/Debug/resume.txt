@@ -1,0 +1,9 @@
+Name: John Doe
+Age: 18
+Phone: 1234124312
+Email: john@example.com
+
+Skills: 
+Coding
+Reading
+Writing

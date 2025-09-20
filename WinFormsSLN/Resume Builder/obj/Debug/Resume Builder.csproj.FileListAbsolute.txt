@@ -1,0 +1,29 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Resume Builder.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Resume Builder.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Resume Builder.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume Builder.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume_Builder.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume_Builder.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume Builder.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume Builder.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume Builder.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume Builder.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume Builder.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Data.SQLite.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\obj\Debug\Resume B.5E497D71.Up2Date
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Buffers.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Memory.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Buffers.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Data.SQLite.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Memory.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume Builder\bin\Debug\Newtonsoft.Json.xml

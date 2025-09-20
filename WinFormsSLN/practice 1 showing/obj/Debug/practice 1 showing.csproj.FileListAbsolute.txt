@@ -1,0 +1,10 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\bin\Debug\practice 1 showing.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\bin\Debug\practice 1 showing.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\bin\Debug\practice 1 showing.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice 1 showing.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice_1_showing.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice_1_showing.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice 1 showing.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice 1 showing.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice 1 showing.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\practice 1 showing\obj\Debug\practice 1 showing.pdb

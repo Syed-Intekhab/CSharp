@@ -1,0 +1,150 @@
+﻿@model List<Resume>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (TempData["Message"] != null)
+{
+    <script>alert("@TempData["Message"]");</script>
+}
+
+<div class="form-container">
+    <form action="/" method="post">
+        <div class="fields-container">
+            <div class="input-field">
+                <label for="name">Name:</label>
+                <input type="text" name="name" id="name" required />
+            </div>
+
+            <div class="input-field">
+                <label for="age">Age:</label>
+                <input type="number" name="age" id="age" required />
+            </div>
+
+            <div class="input-field">
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" required />
+            </div>
+
+            <div class="input-field">
+                <label for="phone">Phone:</label>
+                <input type="text" name="phone" id="phone" required />
+            </div>
+
+            <div class="input-field">
+                <div class="radio-field">
+                    <label for="male">Male</label>
+                    <input type="radio" name="gender" id="male" value="Male" required />
+                </div>
+                <div class="radio-field">
+                    <label for="female">Female</label>
+                    <input type="radio" name="gender" id="female" value="Female" required />
+                </div>
+            </div>
+
+            <div class="input-field skills-field">
+                <label for="skills">Skills:</label>
+                <textarea type="text" rows="3" name="SkillsStr" id="skills" title="Write your skills in a comma separated list" placeholder="(eg. Coding, Team Management, Editing)" class="skills" required></textarea>
+            </div>
+
+            <div class="buttons-container">
+                <button type="submit">Save</button>
+                <button type="reset">Clear</button>
+            </div>
+        </div>
+
+        <div class="fields-container">
+            <div class="input-field">
+                <label for="address">Address:</label>
+                <textarea rows="5" cols="30" name="address" id="address" required></textarea>
+            </div>
+
+            <div class="input-field">
+                <label for="summary">Summary:</label>
+                <textarea rows="5" cols="30" name="summary" id="summary" required></textarea>
+            </div>
+        </div>
+
+        <div class="fields-container">
+            <div class="input-field">
+                <label for="degree">Degree:</label>
+                <input type="text" name="degree" id="degree" />
+            </div>
+
+            <div class="input-field">
+                <label for="year">Year:</label>
+                <input type="text" name="year" id="year" />
+            </div>
+
+            <div class="input-field">
+                <label for="university">University:</label>
+                <input type="text" name="university" id="university" />
+            </div>
+
+            <div class="devider"></div>
+
+            <div class="input-field">
+                <label for="company">Company:</label>
+                <input type="text" name="company" id="company" />
+            </div>
+
+            <div class="input-field">
+                <label for="role">Role:</label>
+                <input type="text" name="role" id="role" />
+            </div>
+
+            <div class="input-field">
+                <label for="years">Years:</label>
+                <input type="text" name="exp" id="years" />
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Data Grid Table -->
+<div class="data-grid-table">
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Gender</th>
+            <th>Address</th>
+            <th>Summary</th>
+            <th>SkillsStr</th>
+            <th>Degree</th>
+            <th>University</th>
+            <th>Year</th>
+            <th>Company</th>
+            <th>Role</th>
+            <th>Exp</th>
+        </tr>
+        @{
+            if(Model != null)
+            {
+                foreach (var r in Model)
+                {
+                    <tr class="grid-data">
+                        <td>@r.Name</td>
+                        <td>@r.Age</td>
+                        <td>@r.Email</td>
+                        <td>@r.Phone</td>
+                        <td>@r.Gender</td>
+                        <td>@r.Address</td>
+                        <td>@r.Summary</td>
+                        <td>@r.SkillsStr</td>
+                        <td>@r.Degree</td>
+                        <td>@r.University</td>
+                        <td>@r.Year</td>
+                        <td>@r.Company</td>
+                        <td>@r.Role</td>
+                        <td>@r.Exp</td>
+                    </tr>
+                }
+            }
+        }
+    </table>
+
+    @ViewBag.DataMessage
+</div>

@@ -1,0 +1,12 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\bin\Debug\SQLite Practice.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\bin\Debug\SQLite Practice.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\bin\Debug\SQLite Practice.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\bin\Debug\System.Data.SQLite.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite Practice.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite_Practice.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite_Practice.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite Practice.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite Practice.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite P.8B873A4F.Up2Date
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite Practice.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\SQLite Practice\obj\Debug\SQLite Practice.pdb

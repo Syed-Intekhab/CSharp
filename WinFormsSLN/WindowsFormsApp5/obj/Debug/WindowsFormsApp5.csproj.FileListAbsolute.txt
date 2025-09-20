@@ -1,0 +1,11 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.config

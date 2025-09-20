@@ -1,0 +1,11 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\bin\Debug\Resume App Level 2.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\bin\Debug\Resume App Level 2.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\bin\Debug\Resume App Level 2.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume App Level 2.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume_App_Level_2.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume_App_Level_2.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume App Level 2.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume App Level 2.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume App Level 2.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume App Level 2.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\Resume App Level 2\obj\Debug\Resume App Level 2.exe.config

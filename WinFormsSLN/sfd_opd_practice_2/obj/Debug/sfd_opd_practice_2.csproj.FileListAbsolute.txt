@@ -1,0 +1,11 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\bin\Debug\sfd_opd_practice_2.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\bin\Debug\sfd_opd_practice_2.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\bin\Debug\sfd_opd_practice_2.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\sfd_opd_practice_2\obj\Debug\sfd_opd_practice_2.exe.config

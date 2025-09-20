@@ -1,0 +1,170 @@
+﻿/*header Styling*/
+.header{
+    background-color: #3f51b5;
+}
+
+.header a{
+    color: #fff !important;
+    transition: color 0.3s ease;
+}
+
+.header a:hover{
+    color: #ffc107 !important;
+}
+
+/*Footer Styling*/
+footer {
+    background-color: #3f51b5;
+}
+
+footer div{
+    color: #fff;
+}
+
+footer div a{
+    color: #fff !important;
+    transition: color 0.3s ease;
+}
+
+footer div a:hover {
+    color: #ffc107 !important;
+}
+
+.form-container {
+    color: #333333;
+    width: 100%;
+}
+
+.form-container form{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    margin: 60px 0px;
+}
+
+form .fields-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    padding: 20px 15px;
+    border: 1px solid #3f51b5;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.fields-container .devider{
+    height: 1px;
+    background-color: #111;
+    width: 100%;
+    margin: 20px 0px;
+}
+
+.input-field{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.fields-container:nth-child(2) .input-field{
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.input-field label{
+    width: 60px;
+    margin-right:8px;
+}
+
+.input-field input,
+.input-field textarea{
+    width: 100%;
+    font-size: 16px;
+    padding: 5px;
+    resize: none;
+    border-radius: 4px;
+    border: 1px solid #111;
+}
+
+.radio-field input,
+.radio-field label{
+    width: fit-content;
+}
+
+.skills-field{
+    margin-top: 5px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.skills {
+    width: 100%;
+}
+
+.buttons-container{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.buttons-container button{
+    padding: 5px 25px;
+    border: 1px solid #111;
+    background-color: #ffc107;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.buttons-container button:hover{
+    background-color: #ffa000;
+}
+
+.buttons-container button:nth-child(1){
+    background-color: #3f51b5;
+}
+
+.buttons-container button:nth-child(1):hover{
+    background-color: #303f9f;
+}
+
+/* Data Table Styling */
+.data-grid-table{
+    margin: 40px 0px;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.data-grid-table table{
+    width: 100%;
+} 
+
+table, th, td{
+    border: 1px solid #bdbdbd;
+    border-collapse: collapse;
+    white-space: nowrap;
+    color: #333333;
+}
+
+tr:nth-child(even) {
+    background-color: #e3f2fd;
+}
+
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+th, td{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+th {
+    background-color: #3f51b5;
+    color: #fff;
+}

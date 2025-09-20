@@ -1,0 +1,8 @@
+Name: Jane Doe
+Email: jane@example.com
+Phone: 12341234123
+
+Skills:
+Coding
+Reading
+Writing

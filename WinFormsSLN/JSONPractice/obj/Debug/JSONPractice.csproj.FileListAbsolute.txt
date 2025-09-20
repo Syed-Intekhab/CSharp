@@ -1,0 +1,14 @@
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\bin\Debug\JSONPractice.exe.config
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\bin\Debug\JSONPractice.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\bin\Debug\JSONPractice.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.csproj.AssemblyReference.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.Form1.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.Properties.Resources.resources
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.csproj.GenerateResource.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.csproj.CoreCompileInputs.cache
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPrac.E4F5B4A4.Up2Date
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.exe
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.pdb
+C:\Users\tauseef quazi\source\repos\Intekhab\JSONPractice\obj\Debug\JSONPractice.exe.config
