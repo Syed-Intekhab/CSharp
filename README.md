@@ -54,10 +54,6 @@ This repo contains all of my C# practice and learning notes, starting from **ver
 ---
 
 ## 📧 Contact
-- **Email:** [your-email@example.com]()  
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/]()  
-- **Portfolio:** [Your Portfolio Website]([https://your-portfolio.com]
-- 
 - **Email:** [intekhab.dev@gmail.com](mailto:intekhab.dev@gmail.com)  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/posts/syed-intekhab-3a5713330_typingspeed-productivity-coding-activity-7296189391452987393-NyjY?utm_source=share&utm_medium=member_android&rcm=ACoAAFNmO20Ba9R-eQmF3ZJ9sf8tjBMMXqTWD7Y)
 - **Portfolio:** [Portfolio](https://syed-intekhab.github.io/Projects/)  
